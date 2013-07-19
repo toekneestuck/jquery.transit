@@ -1,0 +1,29 @@
+{
+  "name": "jquery.transit",
+  "version": "0.9.9",
+  "description": "Super-smooth CSS3 transformations and transitions for jQuery",
+  "main": "jquery.transit.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rstacruz/jquery.transit.git"
+  },
+  "keywords": [
+    "animation",
+    "css3",
+    "jquery"
+  ],
+  "author": "Rico Sta. Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rstacruz/jquery.transit/issues"
+  },
+  "dependencies": {
+    "jquery2": "~2.0.2"
+  }
+}

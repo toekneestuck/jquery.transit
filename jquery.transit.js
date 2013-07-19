@@ -705,4 +705,4 @@
 
   // Export some functions for testable-ness.
   $.transit.getTransitionValue = getTransition;
-})(jQuery);
+})(require('jquery2'));
